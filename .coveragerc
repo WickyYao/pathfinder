@@ -1,0 +1,3 @@
+[run]
+source = pathfinder
+omit = pathfinder/test*
